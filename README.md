@@ -4,13 +4,20 @@
 #
 Приложение реализовано с использованием фрейморка ***Django***, база данных построена на ***PostgreSQL***
 
+Реализация Frontend-части проект на ***React***
+
 Для запуска приложения используйте команду: ***python manage.py runserver***
 
 Приложением запускается на локальном сервере (Адрес: localhost, порт: 8000)
 
+В проекте реализованы модели пользователи, объявлений, комментариев.
 
+Полный функционал для моделей указан в ***Swagger*** 
 
+# Стек
+***Python, Django, DFR, Django ORM, PostgreSQL, JWT***
 
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue"/>
 asgiref==3.4.1
 black==22.1.0
 certifi==2021.10.8
